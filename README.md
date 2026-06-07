@@ -1,5 +1,5 @@
 [README_beer_game.md](https://github.com/user-attachments/files/28679751/README_beer_game.md)
-# 🍺 Beer Distribution Game — Q-Learning RL Agent
+# Beer Distribution Game — Q-Learning RL Agent
 
 A reinforcement learning simulation of the classic MIT Sloan Beer Distribution Game. A Q-learning agent is trained to manage retailer inventory decisions across a 4-stage supply chain, with the goal of minimizing the Bullwhip Effect.
 
